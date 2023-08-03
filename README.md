@@ -19,7 +19,7 @@ La sección "Técnicas y Precios" muestra la carta de precios y las opciones dis
 
 ## Sección "Contacto y Ubicación"
 
-En esta sección, los usuarios pueden agendar una cita o hacer preguntas adicionales. Para contactar al equipo, los usuarios pueden hacer uso de la cuenta de [Instagram](https://instagram.com/comeongirl_lashes?igshid=MzRlODBiNWFlZA==) o verificar la [ubicación en Google Maps](https://maps.app.goo.gl/HhKKwiA8zVyUaPpX8?g_st=ii).
+En esta sección, los usuarios pueden agendar una cita o hacer preguntas adicionales. Para contactar al equipo, los usuarios pueden hacer uso de un mensaje predeterminado en WhatsApp o verificar la [ubicación en Google Maps](https://maps.app.goo.gl/HhKKwiA8zVyUaPpX8?g_st=ii).
 
 ## Tecnologías Utilizadas
 
