@@ -1,7 +1,7 @@
-# Come o,n girl! Lashes - Página Web de Servicios de Extensiones de Pestañas 
+# Come on, girl! Lashes - Página Web de Servicios de Extensiones de Pestañas 
 ## Descripción
 
-"Come on girl! Lashes" es una página web dedicada a ofrecer servicios de extensiones de pestañas de alta calidad. El objetivo de la página es realzar la belleza natural de los ojos a través de técnicas vanguardistas y productos de primera calidad. Los visitantes encontrarán información detallada sobre los servicios, los precios y cómo contactar al equipo para agendar una cita.
+"Come on, girl! Lashes" es una página web dedicada a ofrecer servicios de extensiones de pestañas de alta calidad. El objetivo de la página es realzar la belleza natural de los ojos a través de técnicas vanguardistas y productos de primera calidad. Los visitantes encontrarán información detallada sobre los servicios, los precios y cómo contactar al equipo para agendar una cita.
 
 ## Instrucciones de Uso
 
@@ -38,7 +38,7 @@ Aqui puedes visualizar mi proyecto: [Come on, girl lashes!](#)
 
 ![Captura de Pantalla 1](imagenes/2023-08-03.png)
 
-![Captura de Pantalla 2](imagenes/2023-08-03(1).png)
+![Captura de Pantalla 2](imagenes/ss2.png)
 
 ## Autor
 
