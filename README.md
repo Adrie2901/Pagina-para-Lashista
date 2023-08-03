@@ -32,7 +32,7 @@ No se requiere instalación para utilizar la página web. Los visitantes solo ne
 - jQuery
 
 ## Link a demo
-Aqui puedes visualizar mi proyecto: [Come on, girl lashes!](#)
+Aqui puedes visualizar mi proyecto: [Come on, girl lashes!](https://courageous-daifuku-2f0c3a.netlify.app)
 
 ## Capturas de Pantalla
 
