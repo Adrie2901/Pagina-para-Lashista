@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <!-- Metadatos -->
+    <meta charset="utf-8">
+    <meta name="author" content="Adriana Ruiz">
+    <meta name="description" content="Pagina de Come on girl! Lashes">
+    <meta name="keywords" content="HTML, CSS, JavaScript, Bootstrap, GitHub, Netlify">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Titulo -->
+    <title>Come on girl! Lashes</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="imagenes/iconlashes3.png" width="80">
+    <!-- Bootstrap -->
+    <!-- Enlaza los estilos de Bootstrap (asegúrate de ajustar la ruta según la ubicación de tus archivos) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Enlaza la biblioteca de jQuery (asegúrate de ajustar la ruta según la ubicación de tus archivos) -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+
+    <!-- Enlaza los scripts de Bootstrap (asegúrate de ajustar la ruta según la ubicación de tus archivos) -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js"></script>
+
+    <!-- Iconos de Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <!-- CSS -->
+    <link href="style.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Karla:ital@1&family=Mandali&family=Nanum+Myeongjo&family=PT+Serif&family=Press+Start+2P&family=Staatliches&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <!-- Barra de navegacion -->
+    <nav class="navbar navbar-expand-md navbar-light">
+      <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-toggler" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar-toggler">
+          <a class="navbar-brand" href="#">
+            <img src="imagenes/iconblack.png" width="50" alt="Logo de la página web">
+          </a>
+          <ul class="navbar-nav d-flex justify-content-center align-items-center">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#Conócenos">Conócenos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#Menuprecios">Técnicas y Precios</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contacto">Contacto y ubicación</a>
+            </li>
+            <!--<li class="nav-item">
+              <a class="nav-link" href="#proyectos">Ubicacion</a>
+            </li>-->
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Seccion Hero -->
+    <section class="hero align-items-stretch">
+      <div class="hero-principal d-flex flex-column justify-content-center align-items-center">
+        <img class="hero-imagen-icon rounded-circle" src="imagenes/CC6F0161-2660-40FF-ACFE-8FD19974BC1E.JPG" alt="Logo principal">
+        <h1>Come on, girl! Lashes</h1>
+        <h2> ¡Bienvenida a la revolución de las pestañas!🧸</h2>
+
+        <!--Animación con JavaScript-->
+      <div class="hero-inferior">
+        <img class="hero-inferior" src="imagenes/fotorelleno-removebg-preview (1).png" alt="Imagen-lashes">
+      </div>
+    </section>
+
+    <!-- Conócenos -->
+    <section id="Conócenos" class="Conócenos seccion-oscura">
+      <div class="container">
+          <div class="thumbnail"></div>
+          <div class="content">¡Hola! Soy una apasionada lashista y en mi emprendimiento, mi objetivo es realzar tu belleza natural a través del arte de embellecer miradas. Cada sesión conmigo es personalizada y de alta calidad. Utilizo productos de primera calidad y técnicas vanguardistas para garantizar resultados excepcionales y duraderos. En mi sitio web, descubrirás una variedad de servicios diseñados para potenciar tu mirada y hacerte sentir segura y hermosa en cada ocasión. <strong>¡Ven y déjame hacer magia en tus ojos!</strong> 💕 #LashistaProfesional</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Menuprecios -->
+    <section id="Menuprecios" class="Menu-de-precios-seccion-clara">
+      <h4 class="seccion-titulo">Carta de precios y opciones disponibles</h4>
+      <h3 class="seccion-descripcion">Si tienes alguna idea de diseño personalizado, podemos darte un precio por ello.
+      <br>
+      <br>
+      <strong>El retiro tiene un costo de $50</strong>
+      </h3>
+      
+      <!-- Carrusel -->
+      <div id="Menuprecioss-carrusel" class="carousel carousel-dark slide" data-bs-ride="carousel">
+
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container">
+              <img class="Menuprecios-imagen rounded-circle" src="imagenes/clasicas.jpeg" alt="Clasicas">
+              <div class="Menuprecios-info">
+                <div class="badges-contenedor">
+                  <span class="badge">Clásicas</span><br>
+                  <span class="badge">$400</span>
+                  <br>
+                  <p class="Precio">Retoque $200</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item">
+            <div class="container">
+              <img class="Menuprecios-imagen rounded-circle " src="imagenes/efect rimel.jpeg" alt="Efecto rimel">
+              <div class="Menuprecios-info">
+                <div class="badges-contenedor">
+                  <span class="badge">Efecto Rimel</span> <br>
+                  <span class="badge">$400</span>
+                  <p class="Precio">Retoque $200</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item">
+            <div class="container">
+              <img class="Menuprecios-imagen rounded-circle" src="imagenes/hibridas.jpeg" alt="Hibridas">
+              <div class="Menuprecios-info">
+                <div class="badges-contenedor">
+                  <span class="badge">Híbridas</span> <br>
+                  <span class="badge">$500</span>
+                <p class="Precio">Retoque $250 </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item">
+          <div class="container">
+            <img class="Menuprecios-imagen rounded-circle" src="imagenes/Wispy.jpeg" alt="Wispy">
+            <div class="Menuprecios-info rounded-circle">
+              <div class="badges-contenedor">
+                <span class="badge">Efecto Wispy</span> <br>
+                <span class="badge">$500</span>
+              <p class="Precio">Retoque $250 </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+        <div class="carousel-item">
+          <div class="container">
+            <img class="Menuprecios-imagen rounded-circle" src="imagenes/volumen hawaiano.jpeg" alt="Vol Hawaiano">
+            <div class="Menuprecios-info rounded-circle">
+              <div class="badges-contenedor">
+                <span class="badge">Volumen Hawaiano</span> <br>
+                <span class="badge">$550</span>
+              <p class="Precio">Retoque $300 </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="carousel-item">
+        <div class="container">
+          <img class="Menuprecios-imagen rounded-circle" src="imagenes/vol tech 3d.jpeg" alt="Volumen">
+          <div class="Menuprecios-info">
+            <div class="badges-contenedor">
+              <span class="badge">Volumen Tecnológico 3D</span> <br>
+              <span class="badge">$550</span>
+            <p class="Precio">Retoque $300 </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <div class="container">
+        <img class="Menuprecios-imagen rounded-circle" src="imagenes/volumen.jpeg" alt="Volumen">
+        <div class="Menuprecios-info">
+          <div class="badges-contenedor">
+            <span class="badge">Volumen</span> <br>
+            <span class="badge">$600</span>
+          <p class="Precio">Retoque $300 </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <div class="carousel-item">
+      <div class="container">
+        <img class="Menuprecios-imagen rounded-circle" src="imagenes/megavolumen.jpeg" alt="Mega Vol">
+        <div class="Menuprecios-info">
+          <div class="badges-contenedor">
+            <span class="badge">Mega Volumen</span> <br>
+            <span class="badge">$650</span>
+          <p class="Precio">Retoque $350 </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#Menuprecioss-carrusel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Anterior</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#Menuprecioss-carrusel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Siguiente</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Contacto -->
+<section id="contacto" class="contacto">
+  <div class="container">
+    <div class="row text-center rectangulo d-flex justify-content-between">
+      <div class="col-12 col-md-4 descripcion">
+        <strong>Resalta tu mirada y déjate consentir con un servicio personalizado. 
+        <br>
+        <br>
+        ¡Agenda tu cita con la lashista y consulta horarios disponibles!</strong>
+      </div>
+      <div class="col-12 col-md-4">
+        <a href="https://instagram.com/comeongirl_lashes?igshid=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">
+          <button type="button" class="mi-boton">  
+            <span class="texto-boton">
+            Contacto 
+            <i class="bi bi-instagram"></i>
+          </span>
+          </button>
+        </a>
+      </div>
+      <div class="col-12 col-md-4">
+        <a href="https://maps.app.goo.gl/HhKKwiA8zVyUaPpX8?g_st=ii" target="_blank" rel="noopener noreferrer">
+          <button type="button" class="mi-boton">  
+            <span class="texto-boton">
+            Ubicación
+            <i class="bi bi-geo-alt"></i>
+            </span>
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+    
+  </body>
+</html>
+
+  
