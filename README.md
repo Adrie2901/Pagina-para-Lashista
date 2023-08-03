@@ -1,1 +1,1 @@
-# Pagina-para-Lashista
+# Lashista - Página Web de Extensiones de Pestañas
