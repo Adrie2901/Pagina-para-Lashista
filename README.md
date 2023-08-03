@@ -36,9 +36,9 @@ Aqui puedes visualizar mi proyecto: [Come on, girl lashes!](#)
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](2023-08-03.png)
+![Captura de Pantalla 1](imagenes/2023-08-03.png)
 
-![Captura de Pantalla 2](2023-08-03(1).png)
+![Captura de Pantalla 2](imagenes/2023-08-03(1).png)
 
 ## Autor
 
