@@ -1,6 +1,6 @@
 # Come on, girl! Lashes - Página Web de Servicios de Extensiones de Pestañas 
 ## Link a demo
-Aquí puedes visualizar mi proyecto: [Come on, girl lashes!](https://courageous-daifuku-2f0c3a.netlify.app)
+Aquí puedes visualizar mi proyecto: [Come on, girl lashes!](https://comeongirlashes.netlify.app/)
 ## Descripción
 
 "Come on, girl! Lashes" es una página web dedicada a ofrecer servicios de extensiones de pestañas de alta calidad. El objetivo de la página es realzar la belleza natural de los ojos a través de técnicas vanguardistas y productos de primera calidad. Los visitantes encontrarán información detallada sobre los servicios, los precios y cómo contactar al equipo para agendar una cita.
